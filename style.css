@@ -1,0 +1,7 @@
+body{
+    border: 1px solid black;
+    margin: 3%;
+    padding: 2% 0;
+    display: grid;
+    place-items: center;
+}
